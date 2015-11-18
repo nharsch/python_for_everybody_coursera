@@ -1,11 +1,9 @@
 import socket
-
 mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-# mysock.setblocking(0) # non blocking
 mysock.settimeout(10)
 # print socket.getaddrinfo('www.py4inf.com', 80, 0, 0, socket.IPPROTO_TCP)
-mysock.connect(('www.py4inf.com', 80))
-mysock.send('GET http://www.py4inf.com/code/romeo.txt HTTP/1.0\n\n')
+mysock.connect(('bpa.indemand.com', 80))
+mysock.send('GET http://bpa.indemand.com HTTP/1.0\n\n')
 
 print "connecting..."
 

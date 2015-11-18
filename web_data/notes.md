@@ -47,4 +47,10 @@ with socket. Not working at office.
 
 with urllib. Urllib makes URLs more like files 
 
+# Week 4
+
+## 05.01 Understanding HTML
+
+Reading web pages. Web Scraping. Using BeautifulSoup
+
 
