@@ -1,3 +1,6 @@
+# Week 2
+
+## Regex
 
 # Week 3
 
@@ -38,9 +41,10 @@ this:
 During a web page lookkup, several GET requests usually fire. CSS, JS, external
 resources, etc.
 
-## 0e4.03 Writing a web browser
+## 04.03 Writing a web browser
 
+with socket. Not working at office.
 
-
+with urllib. Urllib makes URLs more like files 
 
 
