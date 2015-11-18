@@ -53,4 +53,13 @@ with urllib. Urllib makes URLs more like files
 
 Reading web pages. Web Scraping. Using BeautifulSoup
 
+# Week 5
+
+## 06.01 Using Web Services
+
+**wire protocol** - what we send on the 'wire'. Two major wire formats:
+XML and JSON
+
+Serialize and Deserialize
+
 
